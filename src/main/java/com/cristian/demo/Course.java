@@ -50,7 +50,7 @@ public class Course {
         return instructor;
     }
 
-    public void setIntructor(String instructor) {
+    public void setInstructor(String instructor) {
         this.instructor = instructor;
     }
 
@@ -69,4 +69,5 @@ public class Course {
     public void setCredit(int credit) {
         this.credit = credit;
     }
+
 }
